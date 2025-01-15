@@ -1,4 +1,4 @@
-let nama = "Himmatul Ulya";
+let nama = "Himmatul Ulya.";
 let alamat = "Dempet,Tugu";
 let usia = "16";
 let ttl = "Demak, 21 November 2008";
